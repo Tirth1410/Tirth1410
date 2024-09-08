@@ -35,6 +35,20 @@
 
 <div>
   <div><h2><img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></div>
+  <div>
+    <div><h3>LeetCode</h3></div>
+    <div align="center">
+      <img src="https://leetcode.card.workers.dev/22bce098?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+    </div>
+  </div>
+
+  <div>
+    <div><h3>Codeforces</h3></div>
+    <div align="center">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tirthgohil1410" alt="Codeforces Stats">
+    </div>
+  </div>
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tirth1410&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth1410&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
