@@ -6,23 +6,17 @@
 <div align="center">
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE4Z2g2MXJrY3h2OG9renYxNXZsbmx1eHpqNHFpcDhtajRhbGJoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiwPT2pQAXjv3TeHRB/giphy.gif" />
 </div>
+
 <details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+  <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/22bce098)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tirthgohil1410)
+  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/tirthgohil1410/practice)
+</details>
 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-  <span><img src="https://img.shields.io/badge/BTECH-NirmaUniversity-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
- </details>
-
- <details>
-  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/experience.gif" width="29"/> Experience</h4></summary>
-  - **[Your Role] ** at [Company] | [Duration]
-    - [Work Description]
- </details>
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 </details>
