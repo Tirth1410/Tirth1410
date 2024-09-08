@@ -15,8 +15,8 @@
   <a href="https://codeforces.com/profile/tirthgohil1410" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge">
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/tirthgohil1410/practice" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GeeksforGeeks Badge">
+  <a href="https://www.codechef.com/users/tirthgohil1410" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge">
   </a>
 </details>
 
