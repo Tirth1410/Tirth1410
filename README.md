@@ -30,5 +30,6 @@
   <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS Badge">
   <img src="https://img.shields.io/badge/node.js-%234F5D27.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS Badge">
   <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+  <img src="https://img.shields.io/badge/express.js-%234B3F6C.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express JS Badge">
 </div>
 
