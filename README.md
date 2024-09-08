@@ -33,3 +33,13 @@
   <img src="https://img.shields.io/badge/express.js-%234B3F6C.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express JS Badge">
 </div>
 
+<div>
+  <div><h2><img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tirth1410&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth1410&theme=tokyonight&hide_border=false" alt="GitHub Streak"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth1410&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"><br/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth1410&theme=tokyo-night" alt="Activity Graph">
+  </div>
+</div>
+
