@@ -4,5 +4,5 @@
   Pre-Final Year Student At Nirma University
 </h2>
 <div align="center">
- <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAyMmE2ZnAwNDBhZmx4eTNxb2ozNXQwZ2V2MGp4Y3pzOTJxOXNtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B8RD0j2nKn3JqzIsQm/giphy-downsized-large.gif" />
+ <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE4Z2g2MXJrY3h2OG9renYxNXZsbmx1eHpqNHFpcDhtajRhbGJoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiwPT2pQAXjv3TeHRB/giphy.gif" />
 </div>
