@@ -7,7 +7,7 @@
  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjE4Z2g2MXJrY3h2OG9renYxNXZsbmx1eHpqNHFpcDhtajRhbGJoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiwPT2pQAXjv3TeHRB/giphy.gif" />
 </div>
 
-<details>
+<div>
   <summary><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></summary>
   <a href="https://www.leetcode.com/22bce098" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge">
@@ -18,7 +18,7 @@
   <a href="https://www.codechef.com/users/tirthgohil1410" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge">
   </a>
-</details>
+</div>
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/techstack.gif" width="29"/> Tech Stack</h4></summary>
