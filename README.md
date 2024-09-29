@@ -9,7 +9,7 @@
 
 <div>
   <div><h4> <img align="center" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="29"/> Coding Handles</h4></div>
-  <a href="https://www.leetcode.com/22bce098" target="_blank">
+  <a href="https://www.leetcode.com/Tirth_1410" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge">
   </a>
   <a href="https://codeforces.com/profile/tirthgohil1410" target="_blank">
