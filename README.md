@@ -50,8 +50,11 @@
 <div align="center">
   <img src="https://leetcode.card.workers.dev/Tirth_1410?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats">
   <br/>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tirthgohil1410" alt="Codeforces Stats">
+
+  <!-- Advanced Codeforces Stats Card -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tirthgohil1410&theme=tokyo" alt="Codeforces Stats">
   <br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=Tirth1410&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth1410&theme=radical&hide_border=true" alt="GitHub Streak">
