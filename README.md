@@ -38,7 +38,7 @@
   <div>
     <div><h3>LeetCode</h3></div>
     <div align="center">
-      <img src="https://leetcode.card.workers.dev/22bce098?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+      <img src="https://leetcode.card.workers.dev/Tirth_1410?theme=dark&font=source_code_pro&extension=null" alt="LeetCode Stats">
     </div>
   </div>
 
@@ -57,4 +57,3 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirth1410&theme=tokyo-night" alt="Activity Graph">
   </div>
 </div>
-
