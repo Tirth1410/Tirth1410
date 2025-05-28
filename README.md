@@ -48,7 +48,7 @@
 
 <h2 align="center">🔥 Dynamic Stats 🔥</h2>
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/Tirth_1410?theme=dark&font=source_code_pro&extension=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Tirth_1410?ext=contest" alt="LeetCode Stats">
   <br/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tirthgohil1410" alt="Codeforces Stats">
   <br/>
